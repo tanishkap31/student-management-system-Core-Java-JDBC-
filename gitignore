@@ -1,0 +1,14 @@
+# Compiled classes
+*.class
+bin/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Libraries / OS
+*.jar
+.DS_Store
+Thumbs.db
